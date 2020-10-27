@@ -3,7 +3,7 @@
 pragma solidity 0.7.4;
 
 import "./Dapp.sol";
-import "./Dai.sol";
+import "./DaiToken.sol";
 
 contract TokenFarm {
     
